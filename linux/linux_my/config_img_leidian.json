@@ -1,0 +1,17 @@
+{
+    "pagFile": "/root/autodl-tmp/libpag/linux/source/leidian1qian.pag",
+    "replacements": [
+        {
+            "type": "image",
+            "index": 0,
+            "newContent": "/root/autodl-tmp/libpag/linux/source/bianzhuang.png"
+        },
+        {
+            "type": "image",
+            "index": 1,
+            "newContent": "/root/autodl-tmp/libpag/linux/source/yuanshi.png"
+        }
+    ],
+    "outImagePath": "/root/autodl-tmp/out/leidian",
+    "beizhu": "outImagePath不加/后缀,1是原图-前,0变装图-后"
+}

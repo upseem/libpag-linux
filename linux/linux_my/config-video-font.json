@@ -1,0 +1,45 @@
+{
+    "pagFile": "/root/autodl-tmp/libpag/linux/source/test.pag",
+    "fallbackFontPaths": [
+        "/usr/share/fonts/font/方正黑体简体.ttf",
+        "/usr/share/fonts/font/鸿雷行书简体.otf"
+    ],
+    "replacements": [
+        {
+            "type": "text",
+            "index": 0,
+            "newContent": "00000000000000烤肉"
+        },
+        {
+            "type": "text",
+            "index": 1,
+            "newContent": "1111111111来了!"
+        },
+        {
+            "type": "text",
+            "index": 2,
+            "newContent": "22222222222一口锅"
+        },
+        {
+            "type": "text",
+            "index": 3,
+            "newContent": "3333333333年了"
+        },
+        {
+            "type": "text",
+            "index": 4,
+            "newContent": "44444444上来了"
+        },
+        {
+            "type": "text",
+            "index": 5,
+            "newContent": "555555555酸菜去吸油"
+        },
+        {
+            "type": "text",
+            "index": 6,
+            "newContent": "666666666一顿吧！"
+        }
+    ],
+    "outImagePath": "/root/autodl-tmp/pag/source/"
+}

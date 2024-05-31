@@ -1,0 +1,17 @@
+{
+    "pagFile": "/root/autodl-tmp/libpag/linux/source/hudie0qian.pag",
+    "replacements": [
+        {
+            "type": "image",
+            "index": 0,
+            "newContent": "/root/autodl-tmp/libpag/linux/source/kourenwu.png"
+        },
+        {
+            "type": "image",
+            "index": 1,
+            "newContent": "/root/autodl-tmp/libpag/linux/source/yuanshi.png"
+        }
+    ],
+    "outImagePath": "/root/autodl-tmp/out/hudie1",
+    "beizhu": "outImagePath不加/后缀,1是底层图,0是上面抠图人物图层"
+}

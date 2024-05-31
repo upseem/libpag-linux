@@ -1,0 +1,71 @@
+{
+    "pagFile": "/root/autodl-tmp/libpag/linux/source/test.pag",
+    "pagUrl": "",
+    "replacements": [],
+    "mp4Path": "/root/autodl-tmp/libpag/linux/source/198/",
+    "mp4UrlList": [
+        "https://main-xzwx-1317628291.cos.ap-beijing.myqcloud.com/pag/test_1.MOV",
+        "https://main-xzwx-1317628291.cos.ap-beijing.myqcloud.com/pag/test_2.MOV",
+        "https://main-xzwx-1317628291.cos.ap-beijing.myqcloud.com/pag/test_3.MOV",
+        "https://main-xzwx-1317628291.cos.ap-beijing.myqcloud.com/pag/test_4.MOV",
+        "https://main-xzwx-1317628291.cos.ap-beijing.myqcloud.com/pag/test_5.MOV",
+        "https://main-xzwx-1317628291.cos.ap-beijing.myqcloud.com/pag/test_6.MOV",
+        "https://main-xzwx-1317628291.cos.ap-beijing.myqcloud.com/pag/test_7.MOV",
+        "https://main-xzwx-1317628291.cos.ap-beijing.myqcloud.com/pag/test_8.MOV",
+        "https://main-xzwx-1317628291.cos.ap-beijing.myqcloud.com/pag/test_9.MOV",
+        "https://main-xzwx-1317628291.cos.ap-beijing.myqcloud.com/pag/test_10.MOV"
+    ],
+    "currentFrames": [
+        [
+            8,
+            102,
+            1
+        ],
+        [
+            60,
+            165,
+            2
+        ],
+        [
+            256,
+            419,
+            3
+        ],
+        [
+            165,
+            267,
+            4
+        ],
+        [
+            412,
+            481,
+            5
+        ],
+        [
+            481,
+            552,
+            6
+        ],
+        [
+            552,
+            580,
+            7
+        ],
+        [
+            580,
+            614,
+            8
+        ],
+        [
+            614,
+            680,
+            9
+        ],
+        [
+            680,
+            780,
+            10
+        ]
+    ],
+    "outImagePath": "/root/autodl-tmp/libpag/linux/source/out/"
+}

@@ -1,0 +1,55 @@
+{
+    "pagFile": "../source/3.pag",
+    "fallbackFontPaths": [
+        "../../resources/font/NotoSerifSC-Regular.otf",
+        "../../resources/font/NotoColorEmoji.ttf"
+    ],
+    "replacements": [
+        {
+            "type": "text",
+            "index": 1,
+            "newContent": "你好帅",
+            "fontPath": "../../resources/font/NotoSansSC-Regular.otf"
+        },
+        {
+            "type": "image",
+            "index": 0,
+            "newContent": "../source/",
+            "totalFrames": 100,
+            "startFrame": 0,
+            "endFrame": 99
+        },
+        {
+            "type": "image",
+            "index": 1,
+            "newContent": "../source/new.png",
+            "totalFrames": 1,
+            "startFrame": 100,
+            "endFrame": 100
+        }
+    ],
+    "mp4Path": "../source/",
+    "currentFrames": [
+        [
+            0,
+            131,
+            0
+        ],
+        [
+            132,
+            225,
+            1
+        ],
+        [
+            262,
+            300,
+            2
+        ],
+        [
+            301,
+            484,
+            3
+        ]
+    ],
+    "imageNamePrefix": "output_"
+}

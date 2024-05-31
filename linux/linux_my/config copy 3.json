@@ -1,0 +1,40 @@
+{
+    "pagFile": "../source/ae.pag",
+    "fallbackFontPaths": [
+        "../../resources/font/NotoSerifSC-Regular.otf",
+        "../../resources/font/NotoColorEmoji.ttf"
+    ],
+    "replacements": [
+        {
+            "type": "text",
+            "index": 1,
+            "newContent": "你好帅",
+            "fontPath": "../../resources/font/NotoSansSC-Regular.otf"
+        }
+    ],
+    "mp4Path": "../source/frames/",
+    "currentFrames": [
+        [
+            0,
+            131,
+            3
+        ],
+        [
+            132,
+            225,
+            2
+        ],
+        [
+            262,
+            300,
+            1
+        ],
+        [
+            301,
+            484,
+            0
+        ]
+    ],
+    "imageNamePrefix": "output_",
+    "outImagePath": ""
+}

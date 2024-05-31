@@ -1,0 +1,44 @@
+{
+    "pagFile": "/root/autodl-tmp/libpag/linux/source/hudie.pag",
+    "fallbackFontPaths": [
+        "/root/autodl-tmp/libpag/resources/font/NotoSerifSC-Regular.otf",
+        "/root/autodl-tmp/libpag/resources/font/NotoColorEmoji.ttf"
+    ],
+    "replacements": [
+        {
+            "type": "text",
+            "index": 1,
+            "newContent": "你好帅",
+            "fontPath": "/root/autodl-tmp/libpag/resources/font/NotoSansSC-Regular.otf"
+        },
+        {
+            "type": "image",
+            "index": 0,
+            "newContent": "/root/autodl-tmp/libpag/linux/source/bianzhuang.png"
+        }
+    ],
+    "mp4Path": "/root/autodl-tmp/libpag/linux/source/frames/",
+    "currentFrames": [
+        [
+            0,
+            131,
+            3
+        ],
+        [
+            120,
+            225,
+            2
+        ],
+        [
+            1,
+            50,
+            1
+        ],
+        [
+            5,
+            30,
+            0
+        ]
+    ],
+    "outImagePath": "/root/autodl-tmp/out/video/"
+}
